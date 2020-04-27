@@ -1,4 +1,4 @@
-# cadmus-server
+# cadmus-web
 
 Front-end Cadmus Challenge
 
